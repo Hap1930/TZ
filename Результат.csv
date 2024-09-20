@@ -1,18 +1,18 @@
 factor;value;avg_likes
-day_of_week;Saturday;302.0000
-time_type;"from 5 to 12 hours";295.0000
-day_of_week;Tuesday;242.6667
-day_of_week;Thursday;216.4000
-time_type;"More than a day";215.5000
 time_of_day;evening;205.0909
-time_type;"from one to 5 hours";192.3333
-day_of_week;Friday;177.0000
-day_of_week;Wednesday;176.8750
 time_of_day;night;172.5000
 time_of_day;afternoon;171.4167
+time_of_day;morning;102.0000
+day_of_week;Saturday;302.0000
+day_of_week;Tuesday;242.6667
+day_of_week;Thursday;216.4000
+day_of_week;Friday;177.0000
+day_of_week;Wednesday;176.8750
+day_of_week;Sunday;107.6667
+day_of_week;Monday;90.0000
+time_type;"from 5 to 12 hours";295.0000
+time_type;"More than a day";215.5000
+time_type;"from one to 5 hours";192.3333
 time_type;"from 12 to 24 hours";149.7000
 time_type;"from 1 to 5 minutes";138.2500
-day_of_week;Sunday;107.6667
-time_of_day;morning;102.0000
-day_of_week;Monday;90.0000
 time_type;"from 5 minutes to an hour";78.0000
